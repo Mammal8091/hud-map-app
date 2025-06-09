@@ -1,0 +1,41 @@
+property_id,property_name_text,address_line1_text,city_name_text,state_code,zip_code,latitude,longitude,property_total_unit_count,owner_email_text,mgmt_agent_org_name
+800000061,Shawnee Renaissance Apartments                    ,105 E CALDWELL                               ,Louisville                  ,KY,40204,38.24,-85.72,177,,New Directions Housing Corporation
+800000125,ANDALUSIA/ENTERPRISE GROUP HOME                   ,209 OAK ST                                   ,ANDALUSIA                   ,AL,36420,31.3,-86.48,20,,"Volunteers of America Southeast, Inc."
+800000126,"Community Options, Inc.                           ",8400 Division Ave                            ,BIRMINGHAM                  ,AL,35206,33.57,-86.71,18,,The Arc of Central Alabama
+800000127,AGAPE HOUSE                                       ,2100 Avenue H Ensley                         ,BIRMINGHAM                  ,AL,35218,33.51,-86.89,18,,"AIDS Alabama, Inc."
+800000130,AHEPA 23-II APARTMENTS                            ,285 Sylvest Drive                            ,MONTGOMERY                  ,AL,36117,32.38,-86.15,71,,AHEPA Affordable Housing Management
+800000133,AHEPA 310 III Apartments                          ,20765 BISHOP RD                              ,FAIRHOPE                    ,AL,36532,30.51,-87.88,50,ionalhousing.org,AHEPA Affordable Housing Management
+800000140,Parkway Place                                     ,2115 CENTRAL PARKWAY                         ,DECATUR                     ,AL,35601,34.57,-86.98,100,brad.mast@gmail.com,Bluebird Property Management LLC
+800000141,AMBERWOOD APARTMENTS                              ,570 SOUTH MAIN ST.                           ,ARAB                        ,AL,35016,34.32,-86.5,70,w@spm.net,"SPM, LLC"
+800000143,ANTON SQUARE APTS                                 ,3507 ANTON ST                                ,PRICHARD                    ,AL,36612,30.75,-88.11,48,ead.com,Fairstead Communities LLC
+800000144,ARROWOOD APARTMENTS                               ,260-1 County Road 82                         ,BOLIGEE                     ,AL,35443,32.75,-88.02,64,rowrealty.com,MORROW REALTY CO.INC.
+800000145,ASHLAND HEIGHTS APARTMENTS                        ,10 ASHLAND HEIGHTS DRIVE                     ,ASHLAND                     ,AL,36251,33.27,-85.83,40,odin@knology.net,Ashland Housing Authority
+800000146,ASHVILLE SEC 8 HOUSING                            ,100 Laurel Ln                                ,Ashville                    ,AL,35953,33.83,-86.26,20,dstream.net, 
+800000147,ASHWOOD Apartments                                ,166 1st St SE                                ,Hamilton                    ,AL,35570,34.14,-87.98,47,doutreach.fund,"Mansermar, Inc."
+800000148,"ATMORE SENIOR HOUSING, INC.                       ",201East Ridgeley Street                      ,ATMORE                      ,AL,36504,31.02,-87.49,40,obrogers@voase.org,"Volunteers of America Southeast, Inc."
+800000134,AHEPA 310 IV Apartments                           ,100 AHEPA WAY                                ,SARALAND                    ,AL,36571,30.82,-88.09,50,#NAME?,AHEPA Affordable Housing Management
+800000137,ALAMEDA TERRACE APTS                              ,1750 Alameda Ct                              ,Birmingham                  ,AL,35211,33.46,-86.86,66,vemgmt.com,Castleberry Property Management Group inc.
+800000149,AUTUMN CHASE APTS.                                ,6617 Grelot Rd.                              ,MOBILE                      ,AL,36695,30.63,-88.28,120,BillW@spm.net,"SPM, LLC"
+800000150,AVALON PARK APARTMENTS                            ,1901-J SHEFFIELD AVE                         ,Muscle Shoals               ,AL,35661,34.74,-87.64,60,ent.com,IRBY MANAGEMENT COMPANY
+800000151,SUNSET ON THE BAYOU                               ,2001 BRILL ROAD                              ,MOBILE                      ,AL,36605,30.6,-88.09,104,atriotservices.org,APARTMENT SERVICES & MANAGEMENT COMPANY
+800000152,BANKHEAD TOWERS                                   ,2300  5th Avenue North                       ,BIRMINGHAM                  ,AL,35203,33.52,-86.81,251,n.acosta@nuveen.com,Paths Management Services LLC
+800000153,BAPTIST OAKS                                      ,800 CONTI ST                                 ,MOBILE                      ,AL,36602,30.69,-88.05,53,lw@spm.net,"SPM, LLC"
+800000154,BAPTIST RETIREMENT VILLAGE                        ,1315 Coats St                                ,Gadsden                     ,AL,35903,34.02,-85.86,55,spm.net,"SPM, LLC"
+800000155,HUTTO TOWER                                       ,4426 WEST MAIN ST                            ,DOTHAN                      ,AL,36305,31.2,-85.5,98,bom.org,"ALABAMA BAPTIST RETIREMENT CENTERS, INC."
+800000156,BARBOUR COUNTY APARTMENTS                         ,100 Milldrum Pl                              ,Clayton                     ,AL,36016,31.88,-85.45,44,spring.com,"Huff Management Company, Inc."
+800000157,BAY MINETTE ROTARY VIL                            ,2211 MCMILLAN AVE                            ,BAY MINETTE                 ,AL,36507,30.88,-87.77,50,dwardjones.com,Multifamily Management Inc.
+800000159,BAYOU BEND II APARTMENTS                          ,1957 BRILL RD                                ,MOBILE                      ,AL,36605,30.6,-88.09,72,nito@mhmltd.com,Millennia Housing Management Ltd
+800000160,BAYOU PLAZA APARTMENTS                            ,600 South Bayou Street                       ,MOBILE                      ,AL,36603,30.68,-88.04,60,mhmltd.com,Millennia Housing Management Ltd
+800000161,BEAVER DAM APARTMENTS                             ,100 Beaver Dam Street                        ,ELBA                        ,AL,36323,31.41,-86.07,30,elphia.net,"SPM, LLC"
+800000162,BEECH CREEK APARTMENTS                            ,100 Beech Creek Ln                           ,Selma                       ,AL,36703,32.43,-86.91,80,ms@chlaw.com,"SPM, LLC"
+800000164,BIRMINGHAM TOWERS                                 ,2712 31st Ave N                              ,Birmingham                  ,AL,35207,33.57,-86.82,125,ntial.com,Silver Tree Residential LLC
+800000165,BLUFF PARK APTS                                   ,"100 Bluff Park, I                            ",EUFAULA                     ,AL,36027,31.9,-85.15,66,Billw@spm.net,"SPM, LLC"
+800000166,BONITA TERRACE APARTMENTS                         ,1300 HARGROVE RD                             ,TUSCALOOSA                  ,AL,35401,33.17,-87.62,130,lty.com,MORROW REALTY CO.INC.
+800000167,BONNIE DOONE APARTMENTS                           ,100 Sanders St                               ,ATHENS                      ,AL,35611,34.78,-86.95,60,inito@mhmltd.com,Millennia Housing Management Ltd
+800000168,BRAD HMS FOR ELD #4                               ,2500 Montague St                             ,Selma                       ,AL,36701,32.41,-87.03,30,@yahoo.com,BALLARD REALTY
+800000169,BRADLEY HOMES #3                                  ,300 EXECUTIVE PKY                            ,GREENVILLE                  ,AL,36037,31.82,-86.62,30,anies.com,BALLARD REALTY
+800000170,BRADLEY PARK                                      ,524 Gilbert Ferry Rd SE                      ,ATTALLA                     ,AL,35954,34.01,-86.1,40,ari@marvemgmt.com,Castleberry Property Management Group inc.
+800000171,BRANCH CREEK APARTMENTS                           ,218 South Hine Street                        ,ATHENS                      ,AL,35611,34.78,-86.95,55,sliew@spm.net,"SPM, LLC"
+800000172,BRENT GARDENS                                     ,57 STEELE ST Building 3                      ,CENTREVILLE                 ,AL,35042,32.95,-87.13,50,inc.com,"SPM, LLC"
+800000173,BRENT HILL APARTMENTS                             ,1800 SHELTON BEACH RD                        ,MOBILE                      ,AL,36618,30.74,-88.17,50,rstead.com,Fairstead Communities LLC
+800000174,BRENTWOOD PARK                                    ,131 Broadway Avenue                          ,TALLADEGA                   ,AL,35160,33.43,-86.09,50,roperties.com,Jeffrey L Kittle Trust
