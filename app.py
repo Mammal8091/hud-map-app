@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load CSV
-df = pd.read_csv("hud_properties.csv")
+df = pd.read_csv("hud_properties.csv", encoding="ISO-8859-1")
 
 st.title("🧪 Test: Print Subject Coordinates")
 
