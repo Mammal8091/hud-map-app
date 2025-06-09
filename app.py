@@ -5,7 +5,7 @@ from folium.plugins import MarkerCluster
 from streamlit_folium import st_folium
 
 # Load HUD property data
-df = pd.read_csv("hud_properties.csv", encoding="ISO-8859-1", errors="replace")
+df = pd.read_csv("hud_properties.csv", encoding="ISO-8859-1")
 
 
 # Streamlit layout
